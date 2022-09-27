@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @AfzalAhamed. I am an undergraduate at the University of Bedfordshire following BSc (Hons) Computer Science and Software Engineering. Currently, I live in Kurunegala. As a hobby, I started web development in 2019. I have web development skills and .NET skills with more than two years of experience. I started my own startup business in 2020 called "CODEIT".
+- 👋 Hi, My name is Afzal Ahamed(@AfzalAhamed) and I am a graduate with a BSc (Hons) in Computer Science and Software Engineering. I have more than two years of experience in web development. I have a lot of experience in PHP, JavaScript and WordPress. Also, I know MySQL, Java, C++ and C#. I'm an open-minded person that strives to learn new skills and expand my horizons. 
+I enjoy working with clients to create the best solution for their businesses. I am passionate about creating products that positively impact the world.
+I love working on projects that are challenging but rewarding. I have an eye for detail and enjoy working with different technologies. I have experience in many different fields, including web development, software engineering and design. I've developed websites for a wide range of industries including e-commerce stores, non-profits, real estate companies and more. 
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently following BSc. (Hons) in Computer Science and Software Engineering
+- 🌱 Gradated BSc. (Hons) in Computer Science and Software Engineering
 - 📫 How to reach me (ahamedafzal45@gmail.com)
 
 <!---
